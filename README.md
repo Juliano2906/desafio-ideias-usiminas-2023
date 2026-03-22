@@ -8,6 +8,8 @@ Objetivo principal:
 Elevar a eficiência energética do sistema de vapor da USIMINAS,
 reduzindo consumo de gás natural (9200 kCal/m³) e perdas térmicas.
 
+Dados / Informações fornecidas para o projeto.:
+
 Etapa 1 – Caldeira (Pré-aquecedor de ar + Traço elétrico)
 
 Instalação de pré-aquecedor de ar na entrada da caldeira
