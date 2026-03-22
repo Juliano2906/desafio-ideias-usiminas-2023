@@ -58,6 +58,7 @@ Traço elétrico: R$ 43,45 (25 m)
 
 Tecnologias e ferramentas usadas
 
+
 Análise termodinâmica (tabelas USP)
 Cálculos de balanço energético
 Desenho técnico (diagramas e renders 3D)
