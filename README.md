@@ -1,7 +1,7 @@
 # Desafio de Ideias +3i – USIMINAS (1º Lugar Regional)
 **PINKUP! – Proposta de Melhora Térmica**
 
-## O que foi feito (resumo técnico)
+## Estrutura do Projeto
 
 ```plaintext
 Objetivo principal:
