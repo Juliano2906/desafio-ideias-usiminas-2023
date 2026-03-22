@@ -10,6 +10,8 @@ reduzindo consumo de gás natural (9200 kCal/m³) e perdas térmicas.
 
 Dados / Informações fornecidas para o projeto.:
 
+![image alt](https://github.com/Juliano2906/desafio-ideias-usiminas-2023/blob/41e79e239e1eac3ab9cde2bbbb67cb08bfcdf9aa/PHOTO-2023-10-16-14-25-39.jpg.jpeg)
+
 Etapa 1 – Caldeira (Pré-aquecedor de ar + Traço elétrico)
 
 Instalação de pré-aquecedor de ar na entrada da caldeira
